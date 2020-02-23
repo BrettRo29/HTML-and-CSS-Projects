@@ -1,0 +1,10 @@
+p	{
+	color: darkblue;
+	background: lightgray;
+	font-style: italic;
+	text-align: right;
+}
+
+h1	{
+	text-shadow: 3px 3px cyan;
+}	
